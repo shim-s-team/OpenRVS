@@ -8,5 +8,6 @@ using namespace std;
 int main()
 {
 	cout << "Hello Develop." << endl;
+	cout << "New Data +1" << endl;
 	return 0;
 }
