@@ -1,8 +1,7 @@
 ﻿{
-  // 이 파일에 대한 자세한 내용은 https://go.microsoft.com//fwlink//?linkid=834763 을 참조하세요.
   "configurations": [
     {
-      "name": "x64-Debug",
+      "name": "Debug",
       "generator": "Ninja",
       "configurationType": "Debug",
       "inheritEnvironments": [ "msvc_x64_x64" ],
