@@ -1,0 +1,1 @@
+/* Shim's Vision Project - Main Library */
