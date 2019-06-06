@@ -5,11 +5,11 @@ cmake_minimum_required (VERSION 3.8)
 
 # 이 프로젝트의 실행 파일에 소스를 추가합니다.
 add_executable (
-	test_apple
+	test_win
 	
-	"test_apple.cpp"
+	"main.cpp"
 
-	"../include/test.h"
+	"./include/test.h"
 )
 
 # TODO: 필요한 경우 테스트를 추가하고 대상을 설치합니다.
